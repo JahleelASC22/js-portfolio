@@ -1,0 +1,39 @@
+div {
+    background-color:grey;
+    font-size:20px;
+    padding: 20px;
+    font-family: Courier;
+    color :white;
+}
+#big_div{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+#community {
+  color: black;
+  border: 5px solid black;
+  font-weight: 700;
+  font-family: Helvetica;
+  padding-bottom: 3px;
+  border-bottom: none;
+  
+}
+#bio{
+    color:blue;
+    font-family: Courier;
+    border: 5px solid blue;
+    font-weight: bold;
+    justify-content:end;
+    border-bottom: none;
+
+}
+#academics{
+    color: red;
+    border: 5px solid red;
+    font-family: Courier;
+    
+    
+
+}
